@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qmudassir
-- 👀 I’m interested in cuber security
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
